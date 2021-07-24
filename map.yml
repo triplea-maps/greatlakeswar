@@ -1,0 +1,6 @@
+map_name: great_lakes_war
+games:
+- {game_name: Great Lakes War WW2v2, file_name: Great Lakes War WW2v2.xml}
+- {game_name: Great Lakes War WW2v3-Alliances, file_name: Great Lakes War WW2v3-Alliances.xml}
+- {game_name: Great Lakes War WW2v3, file_name: Great Lakes War WW2v3.xml}
+version: 0
